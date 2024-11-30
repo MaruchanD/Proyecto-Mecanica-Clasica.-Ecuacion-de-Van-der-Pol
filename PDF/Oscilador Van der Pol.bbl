@@ -1,0 +1,146 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{goldstein2014}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=42b55836bd337de6354a9b7dbb06d8af}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c30af445e2864554d5a6167ac20c813e}{%
+           family={Safko},
+           familyi={S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a52a2b4f2219a19dd23d1593548cb478}{%
+           family={Poole},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \strng{fullhash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \strng{bibnamehash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \strng{authorbibnamehash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \strng{authornamehash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \strng{authorfullhash}{2bfbedc8bcb51400d68b22e7a0453935}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical Mechanics}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{greiner2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7c7b3b46208f3a77cbfc2a909d6a772}{%
+           family={Greiner},
+           familyi={G\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \strng{fullhash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \strng{bibnamehash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \strng{authorbibnamehash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \strng{authornamehash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \strng{authorfullhash}{f7c7b3b46208f3a77cbfc2a909d6a772}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical Mechanics: System of Particles and Hamiltonian Dynamics}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ola2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff1adcda50e15958d9b9ba0f6e2e169c}{%
+           family={Jarab'ah},
+           familyi={J\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=542649110d42a042b05e95ae2a0e1493}{%
+           family={Nawafleh},
+           familyi={N\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=438d9ad49089d1ea861c00de0cf518c8}{%
+           family={Ghassib},
+           familyi={G\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de6e85b961040ae7ffc2e76328aac30f}
+      \strng{fullhash}{de6e85b961040ae7ffc2e76328aac30f}
+      \strng{bibnamehash}{de6e85b961040ae7ffc2e76328aac30f}
+      \strng{authorbibnamehash}{de6e85b961040ae7ffc2e76328aac30f}
+      \strng{authornamehash}{de6e85b961040ae7ffc2e76328aac30f}
+      \strng{authorfullhash}{de6e85b961040ae7ffc2e76328aac30f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Scientific Journal}
+      \field{title}{A Hamilton-Jacobi Treatment of Dissipative Systems}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ku}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=35de3d00adf743ff95d1210ac055e7bc}{%
+           family={Ku},
+           familyi={K\bibinitperiod},
+           given={Y.\bibnamedelimi H.},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c52faef93bc5f96151aa5f17dd44387}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={X},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \strng{fullhash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \strng{bibnamehash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \strng{authorbibnamehash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \strng{authornamehash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \strng{authorfullhash}{efb5fcb53b84b32e05fc74ca3e193a43}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Franklin Institute}
+      \field{title}{CHAOS in Van der Pol's Equation}
+      \warn{\item article entry 'ku' (referencia.bib): Invalid format 's.f.' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
